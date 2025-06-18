@@ -1,103 +1,175 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00c6ff;">Vikranth Pradap</span></h1>
-<h3 align="center">🚀 Software Developer | 📱 iOS Enthusiast | 🐍 Python Explorer</h3>
+# 
+<div align="center">
+  
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hi%20👋%20I'm%20Vikranth%20Pradap&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<p align="center">
-  <a href="mailto:vikranthprathap@gmail.com"><img src="https://img.shields.io/badge/email-vikranthprathap@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vikranthpradap"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
-  <a href="https://github.com/vikranth2711"><img src="https://img.shields.io/github/followers/vikranth2711?label=GitHub&style=flat&logo=github" /></a>
-</p>
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+iOS+Enthusiast;Machine+Learning+Explorer;Building+Tomorrow's+Apps+Today;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- Social Badges with Hover Effects -->
+[![Email Badge](https://img.shields.io/badge/-vikranthprathap@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vikranthprathap@gmail.com)](mailto:vikranthprathap@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikranthpradap)](https://www.linkedin.com/in/vikranthpradap)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vikranth2711)](https://github.com/vikranth2711)
 
-- 🎓 **B.Tech in CSE (AI & ML)** – SRM Institute of Science and Technology  
-- 📱 Passionate about **mobile apps**, **machine learning**, and **building meaningful products**  
-- 💡 Curious learner who loves exploring Swift, Python, and deep tech  
-- 🤝 Open to **collaboration**, especially on cross-platform and AI-based projects  
+<img src="https://komarev.com/ghpvc/?username=vikranth2711&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
----
-
-### 💼 Experience
-
-**👨‍💻 iOS Developer Intern** @ Infosys *(Apr 2025 - May 2025)*  
-- 🔧 Built production-grade iOS apps using `SwiftUI` & `RESTful APIs`  
-- 🚀 Improved backend performance by **15%** using optimized network calls  
-- 🧩 Practiced Agile methods: sprint planning, Jira tracking, and code reviews  
+</div>
 
 ---
 
-### 🏆 Achievements
+## 🚀 About Me
 
-🏅 **Winner – Nokia Hackathon (2025)**  
-Developed a secure mobile banking app with **React Native**, **Django**, and **3GPP AKMA**-based passwordless authentication using HMAC protocols.
-
----
-
-### 🚀 Projects
-
-#### 📱 [Dreamio – iOS Sleep Tracking App](https://github.com/vikranth2711/Dreamio)
-- 🎧 Features ambient sounds, haptic feedback & HealthKit insights  
-- 📊 Achieved 100% sync across devices using Firebase  
-
-#### 🧘 [RELAX – Breathing Techniques App](https://github.com/vikranth2711/RELAX.swiftpm)
-- 🌬️ Guided breathing techniques with animated visual & haptic cues  
-- ⏱️ Techniques: Box Breathing, 4-7-8, Alternate Nostril  
-
-#### 🔢 [Handwritten Digit Classifier](https://github.com/vikranth2711/Handwritten-Digit-Classifier)  
-- 🧠 95% accuracy with TensorFlow on MNIST + PCA optimization  
-- ⚡ Edge-deployable model for digitizing documents
-
-#### 🦯 [Blind Assistance System](https://github.com/vikranth2711/blind-assistance)  
-- 🕶️ Real-time object detection using `YOLOv3`, `OpenCV`, `pyttsx3`  
-- 🔊 Audio feedback for assistive navigation
-
-#### 💬 [Sentiment Analysis – Amazon Reviews](https://github.com/vikranth2711/sentiment-analysis-amazon-reviews)  
-- 🤖 Powered by Hugging Face’s `RoBERTa` for NLP  
-- 📈 Sentiment scoring, chart visualization, accuracy metrics  
-
-#### 🏋️ [ZenithFit – Gym Web App](https://github.com/vikranth2711/ZenithFit)  
-- 💪 Flask + MySQL based gym platform with workouts, meal plans  
-- 🧾 Integrated dashboards, memberships & payment tracking  
+```javascript
+const vikranth = {
+    education: "B.Tech in CSE (AI & ML) @ SRM Institute",
+    currentFocus: ["iOS Development", "Machine Learning", "Swift", "Python"],
+    askMeAbout: ["iOS Apps", "ML Models", "API Development", "Database Design"],
+    technologies: {
+        mobile: ["Swift", "SwiftUI", "UIKit", "Firebase"],
+        ai_ml: ["TensorFlow", "OpenCV", "NLP", "Computer Vision"],
+        backend: ["Python", "Django", "Flask", "MySQL"],
+        cloud: ["AWS", "Firebase", "Heroku"],
+        tools: ["Xcode", "Git", "Postman", "Docker"]
+    },
+    currentlyLearning: "Advanced SwiftUI & Core ML",
+    funFact: "I debug with print statements and I'm not ashamed! 🐛"
+};
+```
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🔥 GitHub Statistics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikranth2711&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikranth2711&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+</div>
 
----
-
-### 📜 Certifications
-
-- ☁️ **AWS Academy** – Machine Learning  
-- ☕ **Oracle** – Java SE 11 Developer  
-- 🔌 **Postman** – API Expert  
-- 🧠 **Kaggle** – Intro to Machine Learning  
-- 🎨 **Meta (Coursera)** – UI/UX Principles  
-- 🛰️ **ISRO** – Geodata ML with Python  
-- 📘 **NPTEL** – Java, DBMS, Computer Architecture  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikranth2711&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikranth2711&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" height="180"/>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technology Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikranth2711&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikranth2711&layout=compact&theme=tokyonight" height="180" />
-</p>
+<div align="center">
+
+### 📱 Mobile Development
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Backend & Database
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <b>⭐️ Thanks for visiting my GitHub! Let's innovate together!</b><br/>
-  <i>Feel free to explore my projects and drop a message if you'd like to collaborate.</i>
-</p>
+## 💼 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 🛠️ Tech Stack | 📝 Description | ⭐ Status |
+|------------|---------------|-----------------|-----------|
+| **[📱 Dreamio](https://github.com/vikranth2711/Dreamio)** | `Swift` `Firebase` `HealthKit` | Advanced iOS sleep tracker with haptic feedback and health integration | 🚀 Active |
+| **[🧘 RELAX](https://github.com/vikranth2711/RELAX.swiftpm)** | `SwiftUI` `Core Animation` | Mindful breathing app with elegant animations and biofeedback | ✨ Featured |
+| **[🔢 Digit Classifier](https://github.com/vikranth2711/Handwritten-Digit-Classifier)** | `TensorFlow` `CNN` `MNIST` | High-precision handwritten digit recognition (95% accuracy) | 🎯 Complete |
+| **[🦯 Blind Assist](https://github.com/vikranth2711/blind-assistance)** | `OpenCV` `Python` `YOLO` | Real-time object detection with audio guidance for accessibility | 🌟 Impact |
+| **[💬 Sentiment Analyzer](https://github.com/vikranth2711/sentiment-analysis-amazon-reviews)** | `RoBERTa` `Transformers` `NLP` | Advanced sentiment analysis for Amazon product reviews | 📊 Research |
+| **[🏋️ ZenithFit](https://github.com/vikranth2711/ZenithFit)** | `Flask` `MySQL` `Bootstrap` | Comprehensive gym management system with workout & diet tracking | 💪 Enterprise |
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+```yaml
+Cloud Computing:
+  - ☁️ AWS Machine Learning Specialty
+  
+Programming:
+  - ☕ Oracle Java SE 11 Developer Professional
+  - 🐍 Python for Data Science (Coursera)
+  
+APIs & Development:
+  - 🔌 Postman API Testing Expert
+  - 🌐 RESTful Web Services Certified
+  
+Machine Learning:
+  - 🧠 Kaggle Machine Learning Intermediate
+  - 🛰️ ISRO Geospatial Data Analysis with ML
+  
+Design & Development:
+  - 🎨 Meta UI/UX Design Professional
+  - 📱 iOS App Development (Apple Developer)
+  
+Academic:
+  - 🧮 NPTEL: Java Programming, DBMS, Computer Architecture
+  - 📈 Data Structures & Algorithms Specialization
+```
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikranth2711&theme=tokyonight" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikranth2711&theme=tokyonight" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikranth2711&theme=tokyonight" alt="Most Commit Language" height="180"/>
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+open+to+interesting+conversations;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime)](mailto:vikranthprathap@gmail.com)
+
+**Thanks for visiting my profile! ⭐️**
+
+*Made with 💙 and lots of ☕*
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
