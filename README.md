@@ -10,7 +10,6 @@
 <br/>
 
 <!-- Social Badges with Hover Effects -->
-[![Email Badge](https://img.shields.io/badge/-vikranthprathap@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vikranthprathap@gmail.com)](mailto:vikranthprathap@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikranthpradap)](https://www.linkedin.com/in/vikranthpradap)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vikranth2711)](https://github.com/vikranth2711)
 
