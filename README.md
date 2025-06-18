@@ -10,6 +10,7 @@
 <br/>
 
 <!-- Social Badges with Hover Effects -->
+[![Email Badge](https://img.shields.io/badge/-vikranthprathap@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vikranthprathap@gmail.com)](mailto:vikranthprathap@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikranthpradap)](https://www.linkedin.com/in/vikranthpradap)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vikranth2711)](https://github.com/vikranth2711)
 
@@ -113,28 +114,35 @@ const vikranth = {
 <div align="center">
 
 ```yaml
+🎯 Competition Wins:
+  - 🏆 Nokia Hackathon Winner (June 2025)
+    └── "Secure Banking with AANF" - Full-stack mobile banking simulation
+    └── Tech Stack: React Native, Django, 3GPP AKMA standards
+    └── Team: 10 members, Production-ready application
+
 Cloud Computing:
-  - ☁️ AWS Machine Learning Specialty
+  - ☁️ AWS Academy Machine Learning
   
 Programming:
   - ☕ Oracle Java SE 11 Developer Professional
-  - 🐍 Python for Data Science (Coursera)
+  - 🐍 GitHub Foundations Certified
   
 APIs & Development:
-  - 🔌 Postman API Testing Expert
-  - 🌐 RESTful Web Services Certified
+  - 🔌 Postman API Fundamentals Student Expert
+  - 🌐 RESTful API Development & Testing
   
 Machine Learning:
-  - 🧠 Kaggle Machine Learning Intermediate
-  - 🛰️ ISRO Geospatial Data Analysis with ML
+  - 🧠 Kaggle Introduction to Machine Learning
+  - 🛰️ ISRO Geodata Processing with Python & ML
+  - 🔬 MathWorks: ML & Deep Learning Onramps
   
 Design & Development:
-  - 🎨 Meta UI/UX Design Professional
-  - 📱 iOS App Development (Apple Developer)
+  - 🎨 Meta Principles of UI/UX Design
+  - 📱 iOS Development with Swift & SwiftUI
   
-Academic:
+Academic Excellence:
   - 🧮 NPTEL: Java Programming, DBMS, Computer Architecture
-  - 📈 Data Structures & Algorithms Specialization
+  - 📊 Data Structures & Algorithms Mastery
 ```
 
 </div>
@@ -151,6 +159,16 @@ Academic:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikranth2711&theme=tokyonight" alt="Repos per Language" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikranth2711&theme=tokyonight" alt="Most Commit Language" height="180"/>
 </div>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 **2024 Focus**: Master SwiftUI and Core ML integration
+- 📱 **Next Project**: AI-powered fitness companion app
+- 🌟 **Open Source**: Contribute to 10+ repositories
+- 📚 **Learning**: Advanced iOS patterns and clean architecture
+- 🤝 **Community**: Mentor aspiring iOS developers
 
 ---
 
