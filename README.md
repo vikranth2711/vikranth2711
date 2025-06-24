@@ -163,7 +163,7 @@ Academic Excellence:
 
 ## 🎯 Current Goals
 
-- 🚀 **2024 Focus**: Master SwiftUI and Core ML integration
+- 🚀 **2025 Focus**: Master SwiftUI and Core ML integration
 - 📱 **Next Project**: AI-powered fitness companion app
 - 🌟 **Open Source**: Contribute to 10+ repositories
 - 📚 **Learning**: Advanced iOS patterns and clean architecture
